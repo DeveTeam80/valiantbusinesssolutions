@@ -1511,7 +1511,7 @@ h3 {
 }
 .footer-area .footer-widget ul li a:hover {
   color: #1659A1 !important;
-: none !important;
+/* : none !important; */
 }
 
 .footer-area .footer-widget ul li:last-child {
@@ -5048,7 +5048,7 @@ h3 {
 
 .right-container {
   display: flex;
-  justify-content: center;
+  justify-content: r;
 }
 
 .right-container a {
