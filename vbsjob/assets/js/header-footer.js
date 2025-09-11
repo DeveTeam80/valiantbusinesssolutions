@@ -7,17 +7,17 @@ class header extends HTMLElement {
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="left-container">
-                            <a href="tel:+91 8390508484"> <i class="fa fa-phone"></i> +91 8390508484</a>
+                            <a href="mailto:connect@valiantbusinesssolutions.com"> <i class="fa fa-envelope"></i>
+                                    connect@valiantbusinesssolutions.com
+                                </a>
                             <a href=""> <i class="fa fa-map-o"></i>
                                 Pune,India</a>
                         </div>
                     </div>
-                    <div class="col-lg-6 text-left">
+                    <div class="col-lg-6 text-right">
                         <div class="right-container">
                             <div class="social-media">
-                                <a href="mailto:connect@valiantbusinesssolutions.com"> <i class="fa fa-envelope"></i>
-                                    connect@valiantbusinesssolutions.com
-                                </a>
+                                
                                 <span title="Facebook"><a href="https://www.facebook.com/valiantbusinesssolution"><i class="fa fa-facebook"></i></a></span>
                                 <span title="Instagram"><a href="https://www.instagram.com/valiantbusinesssolutions"><i class="fa fa-instagram"></i></a></span>
                                 <span title="Linkedin"><a href="https://www.linkedin.com/company/valiant-business-solutions"><i class="fa fa-linkedin"></i></a></span>
@@ -202,15 +202,7 @@ class footer extends HTMLElement {
 						<div class="footer-widget footer-info">
 							<h3>Contact </h3>
 							<ul>
-								<li>
-									<span class="footer-color">
-										<i class='bx bxs-phone'></i>
-										Phone:
-									</span>
-									<a href="tel:+91 8390508484" class="footer-color">
-										+91 8390508484
-									</a>
-								</li>
+								
 	
 								<li>
 									<span class="footer-color">
